@@ -1,4 +1,4 @@
-# -StockSculptor-Carving-Future-Wealth-through-LSTM-Alchemy-A-Streamlit-Saga-of-Predictive-Finance
+# StockSculptor-Carving-Future-Wealth-through-LSTM-Alchemy-A-Streamlit-Saga-of-Predictive-Finance
 
 Certainly! Here's a simplified and brief README file for your stock prediction project:
 
